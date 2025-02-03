@@ -1,1 +1,5 @@
-# Asteroid-classification
+Celestial entities known as asteroids are crucial to comprehending the genesis and development of our solar system. This project uses Machine Learning (ML) techniques to classify asteroids into four main categories: mid-belt asteroids, outer mid-belt asteroids, and other asteroids, which will be further subdivided into two categories. Originally divided into 13 classes, the dataset's 45 characteristics and 958,450 records have been reclassified into the four target categories.
+This project's workflow includes feature engineering, exploratory data analysis (EDA), logistic regression, support vector machines (SVM), and neural networks for model training. Model performance has been evaluated using a variety of metrics, such as F1-score, accuracy, precision, and recall.
+The goal of this project is to advance the field of astronomical data science by creating an optimized machine learning model that can correctly categorize asteroids. The findings of this study may help scientists better classify asteroid populations and comprehend how they are distributed along the asteroid belt.
+
+
